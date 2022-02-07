@@ -1,0 +1,1 @@
+const String chiTietCongviec = 'Chi tiết công việc';
